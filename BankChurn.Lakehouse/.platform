@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "BankChurn"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1affa73c-e73a-9df9-44c4-68dafe92644a"
+  }
+}
